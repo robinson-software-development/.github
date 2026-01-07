@@ -1,4 +1,4 @@
-# Profile Dingens
+# Robinson Software Development
 
-## Important Links
+## Important Links (internal)
 Our Wiki: https://github.com/robinson-software-development/documentations/wiki
